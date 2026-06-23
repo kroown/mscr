@@ -1,5 +1,4 @@
 <p align="center">
-  <b>mscr</b><br>
   metadata scraper · linux · c++
 </p>
 
