@@ -1,9 +1,4 @@
 <p align="center">
-  <b>mscr</b><br>
-  metadata scraper · linux · c++
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cpp">
 </p>
 
