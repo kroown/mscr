@@ -20,12 +20,12 @@ a zero-dependency metadata scraper and stripper for linux. scans files recursive
 
 ## features
 
-- **🔍 scan** — recursive directory crawling with full stat info (permissions, owner, timestamps, inode)
-- **🖼️ image metadata** — jpeg (dimensions + exif camera make/model/orientation/gps), png, gif, bmp, webp
-- **📝 text analysis** — word/line/character counts, ascii / utf-8 detection, binary file detection
-- **✂️ strip** — remove exif from jpeg, ancillary chunks from png, comments from gif, bom + trailing whitespace from text files
-- **⚡ multi-threaded** — automatic parallel scanning with configurable thread count
-- **📦 json output** — machine-readable, pipeable, pretty-print support
+- **scan** — recursive directory crawling with full stat info (permissions, owner, timestamps, inode)
+- **image metadata** — jpeg (dimensions + exif camera make/model/orientation/gps), png, gif, bmp, webp
+- **text analysis** — word/line/character counts, ascii / utf-8 detection, binary file detection
+- **strip** — remove exif from jpeg, ancillary chunks from png, comments from gif, bom + trailing whitespace from text files
+- **multi-threaded** — automatic parallel scanning with configurable thread count
+- **json output** — machine-readable, pipeable, pretty-print support
 
 ## build
 
