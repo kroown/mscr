@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2965F1&height=200&section=header&text=mscr&fontSize=70&fontAlignY=35&animation=twinkling">
 </p>
 <p align="center" style="margin-top: -8px;">
-  metadata scraper · linux · c++
+  metadata scraper for linux
 </p>
 
 <p align="center">
