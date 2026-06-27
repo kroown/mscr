@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2965F1&height=200&section=header&text=mscr&fontSize=70&fontAlignY=35&animation=twinkling">
-</p>
-<p align="center" style="margin-top: -8px;">
-  metadata scraper · linux · c++
-</p>
+# mscr
+
+metadata scraper · linux · c++
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,cpp">
@@ -89,7 +86,5 @@ src/
   strip.cpp/h    in-place metadata removal per format
 ```
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2965F1&height=100&section=footer">
-</p>
+
 
